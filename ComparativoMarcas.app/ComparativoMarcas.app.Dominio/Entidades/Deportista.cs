@@ -9,6 +9,8 @@ namespace ComparativoMarcas.app.Dominio
         public Genero Genero{get; set;}
         public string nombre{get;set;}
         public string apellidos{get;set;}
+        public string cumple{get;set;}
+        public string no_cumple{get;set;}
         
 
         
